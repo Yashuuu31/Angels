@@ -16,7 +16,7 @@
             <!-- Add MenuSetting Form Start -->
             <div class="modal fade" id="addMenuSettings" tabindex="-1" role="dialog"
                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-dialog modal-dialog-centered modal-lg`" role="document">
                     <div class="modal-content">
                         <div class="modal-body">
                             <div class="row mx-2">
